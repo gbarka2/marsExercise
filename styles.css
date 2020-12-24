@@ -1,0 +1,23 @@
+
+body {
+  background-image: url(https://www.nasa.gov/sites/default/files/thumbnails/image/pia23302-nasa.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+
+.jumbotron {
+  background-color: rgba(0, 0, 0, 0.35);
+  color: white;
+}
+
+.navigation-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
